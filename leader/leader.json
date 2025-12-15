@@ -1,7 +1,10 @@
-{
-    "hotkey": "5Fnku2ft9PxhASX6VcSrg5xGGpo9t3MktDM8zhpZHrCu5Anf",
-    "repo": "404-Repo/404-base-miner",
-    "commit": "8af68def6f1392ad3d75bd790f78b4700748f354",
-    "weight": 0.7,
-    "docker": "europe-docker.pkg.dev/gen-456515/exp-build-dockers/5e7eserr2a:8af68de-8"
-}
+[
+  {
+    "hotkey": "5EpmvFVUuucC9PUCNq71sn8mX1wUzynmqXs7UKSaDupeQUMT",
+    "repo": "Uglejo/trenzik",
+    "commit": "11399ebde55c3adb89c039d5b6bcb473676123a2",
+    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5dhrmriav6:11399eb-contest-4",
+    "weight": 1.0,
+    "effective_block": 6043805
+  }
+]
