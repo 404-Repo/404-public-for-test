@@ -22,5 +22,13 @@
     "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5dhrmriav6:11399eb-contest-4",
     "weight": 0.6000000000000001,
     "effective_block": 6071134
+  },
+  {
+    "hotkey": "5EpmvFVUuucC9PUCNq71sn8mX1wUzynmqXs7UKSaDupeQUMT",
+    "repo": "Uglejo/trenzik",
+    "commit": "11399ebde55c3adb89c039d5b6bcb473676123a2",
+    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5dhrmriav6:11399eb-contest-4",
+    "weight": 0.4000000000000001,
+    "effective_block": 6071135
   }
 ]
